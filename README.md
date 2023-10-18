@@ -8,7 +8,7 @@ As quantum computing continues to advance, there is a growing interest in explor
 
 A simple sketch of this instrument is presented here: 
 
-<img src="https://github.com/maria-aguado/Quantum-Step-Sequencer/assets/114862739/cfd14f3a-4ec4-4579-ac17-66b70ec42709" width="400" />
+<img src="https://github.com/maria-aguado/Quantum-Step-Sequencer/assets/114862739/d84418f6-1896-458f-b961-6066412c9172" width="400" />
 
 ## Getting Started
 
