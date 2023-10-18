@@ -19,7 +19,7 @@ I suggest going through the .pdf document I have attached. A detailed explanatio
 * **A Launchpad X** as an interface (it can be substituted by any alternative MIDI device, but subsequent modifications should be performed in the code).
 * **An environment to run Python notebooks** (ex: Visual Studio Code).
 * **To install either Cubase Pro 12 or Pure Data** for sound synthesis.
-* **A Focusrite:** I used it to connect with Cubase but not to connect with Pure Data. This is a personal choice depending on your operating system and computational efficiency.
+* **A Focusrite Interface:** I used it to connect with Cubase but not to connect with Pure Data. This is a personal choice depending on your operating system and computational efficiency.
 
 ### Executing program
 
