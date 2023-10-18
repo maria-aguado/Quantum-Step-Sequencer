@@ -6,7 +6,7 @@ This project develops a 16-step sequencer that introduces quantum algorithms int
 
 As quantum computing continues to advance, there is a growing interest in exploring its applications in the field of music technology. This project presents a step-sequencer that utilizes quantum algorithms for music generation. The step-sequencer employs a Launchpad X interface to control the generation of MIDI notes, which are then processed in Python. The resulting commands are sent to either a Pd patch or the DAW Cubase for sound synthesis. The interface consists of an eight by eight grid of buttons, with the first three rows associated with qubits. Different gates can be manually chosen and applied to these qubits, allowing for intuitive manipulation of quantum systems. The step-sequencer divides the Launchpad X into two halves, with each half representing eight steps. While the qubits operate under quantum principles, the fourth row of the interface is dedicated to chords and bass as “classical instruments”. This combination of quantum and classical instruments enables the generation of both steady and repetitive sequences, as well as counterintuitive and surprising musical patterns. The paper attached provides detailed explanations of the interface, code, and sound synthesis components, highlighting the functionality and capabilities of the quantum step-sequencer.
 
-A simple sketch of this instruemnt is presented here: 
+A simple sketch of this instrument is presented here: 
 
 ![diagram drawio](https://github.com/maria-aguado/Quantum-Step-Sequencer/assets/114862739/cfd14f3a-4ec4-4579-ac17-66b70ec42709)
 
