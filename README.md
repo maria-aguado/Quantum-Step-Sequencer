@@ -25,9 +25,9 @@ A Focusrite: I used it to connect with Cubase but not to connect with Pure Data.
 
 To run the step sequencer, ensure that each of the following bullet points is satisfied:
 
-*Your Launchpad X should be connected in Programmer Mode to your computer.
-*You should open the Cubase Project in Cubase Pro 12 or the Pure Data patches. You can choose your own VTS plugins and sounds for the Cubase project. The melody, the chords, and the bass require plugins, whereas the kick, the snare, and the hi-hat can be sampled. For Pure Data, the melody, chords, and bass rely on their own patches, whereas the percussion is again sampled. I have uploaded the .wav files I used in PD. You need to load them in the main patch (QuantumStep).
-*Once your interface and Cubase/PD are ready, you have to run the launchpad.ipynb notebook. This is where the main program loop takes place. Ensure that all of the MIDI ports are correctly configured (there is a section for this purpose within the code). If the step sequencer is running properly, the Launchpad should be displaying a light setup, and you should be able to hear sound.
+* Your Launchpad X should be connected in Programmer Mode to your computer.
+* You should open the Cubase Project in Cubase Pro 12 or the Pure Data patches. You can choose your own VTS plugins and sounds for the Cubase project. The melody, the chords, and the bass require plugins, whereas the kick, the snare, and the hi-hat can be sampled. For Pure Data, the melody, chords, and bass rely on their own patches, whereas the percussion is again sampled. I have uploaded the .wav files I used in PD. You need to load them in the main patch (QuantumStep).
+* Once your interface and Cubase/PD are ready, you have to run the launchpad.ipynb notebook. This is where the main program loop takes place. Ensure that all of the MIDI ports are correctly configured (there is a section for this purpose within the code). If the step sequencer is running properly, the Launchpad should be displaying a light setup, and you should be able to hear sound.
 
 ## Contact & Help
 
