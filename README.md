@@ -8,7 +8,7 @@ As quantum computing continues to advance, there is a growing interest in explor
 
 A simple sketch of this instrument is presented here: 
 
-![diagram drawio](https://github.com/maria-aguado/Quantum-Step-Sequencer/assets/114862739/cfd14f3a-4ec4-4579-ac17-66b70ec42709)
+<img src="https://github.com/maria-aguado/Quantum-Step-Sequencer/assets/114862739/cfd14f3a-4ec4-4579-ac17-66b70ec42709" width="400" />
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ I suggest going through the .pdf document I have attached. A detailed explanatio
 * A Launchpad X as an interface (it can be substituted by any alternative MIDI device, but subsequent modifications should be performed in the code).
 * An environment to run Python notebooks. I use Visual Studio Code.
 * To install either Cubase Pro 12 or Pure Data for sound synthesis.
-A Focusrite: I used it to connect with Cubase but not to connect with Pure Data. This is a personal choice depending on your operating system and computational efficiency.
+* A Focusrite: I used it to connect with Cubase but not to connect with Pure Data. This is a personal choice depending on your operating system and computational efficiency.
 
 ### Executing program
 
